@@ -1,0 +1,26 @@
+C:\Users\olani\Documents\TECHCareers\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\olani\Documents\TECHCareers\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\olani\Documents\TECHCareers\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\olani\Documents\TECHCareers\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\olani\Documents\TECHCareers\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\olani\Documents\TECHCareers\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\olani\Documents\TECHCareers\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\olani\Documents\TECHCareers\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\olani\Documents\TECHCareers\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\olani\Documents\TECHCareers\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\olani\Documents\TECHCareers\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\olani\Documents\TECHCareers\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\olani\Documents\TECHCareers\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
+C:\Users\olani\Documents\TECHCareers\C# Practice Problems\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+C:\Users\olani\Documents\TECHCareers\C# Practice Problems\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+C:\Users\olani\Documents\TECHCareers\C# Practice Problems\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+C:\Users\olani\Documents\TECHCareers\C# Practice Problems\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+C:\Users\olani\Documents\TECHCareers\C# Practice Problems\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\olani\Documents\TECHCareers\C# Practice Problems\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\olani\Documents\TECHCareers\C# Practice Problems\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+C:\Users\olani\Documents\TECHCareers\C# Practice Problems\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\olani\Documents\TECHCareers\C# Practice Problems\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+C:\Users\olani\Documents\TECHCareers\C# Practice Problems\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\olani\Documents\TECHCareers\C# Practice Problems\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+C:\Users\olani\Documents\TECHCareers\C# Practice Problems\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+C:\Users\olani\Documents\TECHCareers\C# Practice Problems\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
