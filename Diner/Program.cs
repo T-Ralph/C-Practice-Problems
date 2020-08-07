@@ -9,7 +9,7 @@ namespace Diner
             //Declare the DataTypes
             double totalBill;
             int numberDiner;
-            decimal result;
+            decimal eachBill;
 
             //Ask the user for the total bill
             Console.WriteLine("Enter the total bill: $");
@@ -24,13 +24,13 @@ namespace Diner
             numberDiner = Convert.ToInt32(Console.ReadLine());
 
             //Calculate the bill for each diner by splitting the total bill equally
-            result = Convert.ToDecimal(totalBill / numberDiner);
+            eachBill = Convert.ToDecimal(totalBill / numberDiner);
 
             //Round up the result to maximum of 2 decimal places
-            result = Math.Ceiling(result * 100) / 100;
+            eachBill = Math.Ceiling(eachBill * 100) / 100;
 
             //Display the result in a concatenated sentence
-            Console.WriteLine("Each diner will pay $" + result.ToString());
+            Console.WriteLine("Each diner will pay $" + eachBill.ToString());
 
             //Let the user know how to exit the program
             Console.WriteLine("Press the enter key to close the program...");

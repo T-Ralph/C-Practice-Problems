@@ -11,3 +11,16 @@ C:\Users\olani\Documents\TECHCareers\C# Practice Problems\UpperCaseString\obj\De
 C:\Users\olani\Documents\TECHCareers\C# Practice Problems\UpperCaseString\obj\Debug\netcoreapp3.1\UpperCaseString.dll
 C:\Users\olani\Documents\TECHCareers\C# Practice Problems\UpperCaseString\obj\Debug\netcoreapp3.1\UpperCaseString.pdb
 C:\Users\olani\Documents\TECHCareers\C# Practice Problems\UpperCaseString\obj\Debug\netcoreapp3.1\UpperCaseString.genruntimeconfig.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\UpperCaseString\bin\Debug\netcoreapp3.1\UpperCaseString.exe
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\UpperCaseString\bin\Debug\netcoreapp3.1\UpperCaseString.deps.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\UpperCaseString\bin\Debug\netcoreapp3.1\UpperCaseString.runtimeconfig.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\UpperCaseString\bin\Debug\netcoreapp3.1\UpperCaseString.runtimeconfig.dev.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\UpperCaseString\bin\Debug\netcoreapp3.1\UpperCaseString.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\UpperCaseString\bin\Debug\netcoreapp3.1\UpperCaseString.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\UpperCaseString\obj\Debug\netcoreapp3.1\UpperCaseString.csprojAssemblyReference.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\UpperCaseString\obj\Debug\netcoreapp3.1\UpperCaseString.AssemblyInfoInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\UpperCaseString\obj\Debug\netcoreapp3.1\UpperCaseString.AssemblyInfo.cs
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\UpperCaseString\obj\Debug\netcoreapp3.1\UpperCaseString.csproj.CoreCompileInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\UpperCaseString\obj\Debug\netcoreapp3.1\UpperCaseString.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\UpperCaseString\obj\Debug\netcoreapp3.1\UpperCaseString.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\UpperCaseString\obj\Debug\netcoreapp3.1\UpperCaseString.genruntimeconfig.cache

@@ -9,7 +9,7 @@ namespace BirthYear
             //Declare the DataTypes
             int age;
             int years;
-            DateTime result;
+            DateTime yearBirth;
 
             //Ask the user for their age
             Console.WriteLine("Enter your age and the program will calculate your birth year:");
@@ -19,10 +19,10 @@ namespace BirthYear
 
             //Calculate the birth year by converting age to negative years and using DateTime
             years = age * -1;
-            result = DateTime.Now.AddYears(years);
+            yearBirth = DateTime.Now.AddYears(years);
 
             //Display the result in a concatenated sentence
-            Console.WriteLine("Your birth year is " + result.ToString("yyyy"));
+            Console.WriteLine("Your birth year is " + yearBirth.ToString("yyyy"));
 
             //Let the user know how to exit the program
             Console.WriteLine("Press the enter key to close the program...");

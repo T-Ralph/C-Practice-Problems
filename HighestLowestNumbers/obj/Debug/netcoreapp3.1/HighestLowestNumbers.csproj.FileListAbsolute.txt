@@ -1,0 +1,13 @@
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\HighestLowestNumbers\obj\Debug\netcoreapp3.1\HighestLowestNumbers.csprojAssemblyReference.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\HighestLowestNumbers\obj\Debug\netcoreapp3.1\HighestLowestNumbers.AssemblyInfoInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\HighestLowestNumbers\obj\Debug\netcoreapp3.1\HighestLowestNumbers.AssemblyInfo.cs
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\HighestLowestNumbers\obj\Debug\netcoreapp3.1\HighestLowestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\HighestLowestNumbers\bin\Debug\netcoreapp3.1\HighestLowestNumbers.exe
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\HighestLowestNumbers\bin\Debug\netcoreapp3.1\HighestLowestNumbers.deps.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\HighestLowestNumbers\bin\Debug\netcoreapp3.1\HighestLowestNumbers.runtimeconfig.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\HighestLowestNumbers\bin\Debug\netcoreapp3.1\HighestLowestNumbers.runtimeconfig.dev.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\HighestLowestNumbers\bin\Debug\netcoreapp3.1\HighestLowestNumbers.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\HighestLowestNumbers\bin\Debug\netcoreapp3.1\HighestLowestNumbers.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\HighestLowestNumbers\obj\Debug\netcoreapp3.1\HighestLowestNumbers.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\HighestLowestNumbers\obj\Debug\netcoreapp3.1\HighestLowestNumbers.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\HighestLowestNumbers\obj\Debug\netcoreapp3.1\HighestLowestNumbers.genruntimeconfig.cache

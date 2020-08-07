@@ -8,7 +8,7 @@ namespace UpperCaseString
         {
             //Declare the DataTypes
             string text;
-            string result;
+            string textCaps;
 
             //Ask the user for the text
             Console.WriteLine("Enter your text and the program will convert it to uppercase:");
@@ -17,10 +17,10 @@ namespace UpperCaseString
             text = Convert.ToString(Console.ReadLine());
 
             //Convert string to uppercase
-            result = text.ToUpper();
+            textCaps = text.ToUpper();
 
             //Display the result
-            Console.WriteLine(result);
+            Console.WriteLine(textCaps);
 
             //Let the user know how to exit the program
             Console.WriteLine("Press the enter key to close the program...");

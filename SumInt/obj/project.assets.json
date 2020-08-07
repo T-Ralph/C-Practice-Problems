@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olani\\Documents\\TECHCareers\\C# Practice Problems\\SumInt\\SumInt.csproj",
+      "projectUniqueName": "C:\\Users\\olani\\Documents\\TECHCareers\\C-Practice-Problems\\SumInt\\SumInt.csproj",
       "projectName": "SumInt",
-      "projectPath": "C:\\Users\\olani\\Documents\\TECHCareers\\C# Practice Problems\\SumInt\\SumInt.csproj",
+      "projectPath": "C:\\Users\\olani\\Documents\\TECHCareers\\C-Practice-Problems\\SumInt\\SumInt.csproj",
       "packagesPath": "C:\\Users\\olani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olani\\Documents\\TECHCareers\\C# Practice Problems\\SumInt\\obj\\",
+      "outputPath": "C:\\Users\\olani\\Documents\\TECHCareers\\C-Practice-Problems\\SumInt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\olani\\AppData\\Roaming\\NuGet\\NuGet.Config",

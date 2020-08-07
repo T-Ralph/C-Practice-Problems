@@ -1,0 +1,13 @@
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\TriangleHypotenuse\obj\Debug\netcoreapp3.1\TriangleHypotenuse.csprojAssemblyReference.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\TriangleHypotenuse\obj\Debug\netcoreapp3.1\TriangleHypotenuse.AssemblyInfoInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\TriangleHypotenuse\obj\Debug\netcoreapp3.1\TriangleHypotenuse.AssemblyInfo.cs
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\TriangleHypotenuse\obj\Debug\netcoreapp3.1\TriangleHypotenuse.csproj.CoreCompileInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\TriangleHypotenuse\bin\Debug\netcoreapp3.1\TriangleHypotenuse.exe
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\TriangleHypotenuse\bin\Debug\netcoreapp3.1\TriangleHypotenuse.deps.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\TriangleHypotenuse\bin\Debug\netcoreapp3.1\TriangleHypotenuse.runtimeconfig.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\TriangleHypotenuse\bin\Debug\netcoreapp3.1\TriangleHypotenuse.runtimeconfig.dev.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\TriangleHypotenuse\bin\Debug\netcoreapp3.1\TriangleHypotenuse.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\TriangleHypotenuse\bin\Debug\netcoreapp3.1\TriangleHypotenuse.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\TriangleHypotenuse\obj\Debug\netcoreapp3.1\TriangleHypotenuse.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\TriangleHypotenuse\obj\Debug\netcoreapp3.1\TriangleHypotenuse.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\TriangleHypotenuse\obj\Debug\netcoreapp3.1\TriangleHypotenuse.genruntimeconfig.cache

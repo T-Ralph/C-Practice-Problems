@@ -11,3 +11,16 @@ C:\Users\olani\Documents\TECHCareers\C# Practice Problems\BirthYear\bin\Debug\ne
 C:\Users\olani\Documents\TECHCareers\C# Practice Problems\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.dll
 C:\Users\olani\Documents\TECHCareers\C# Practice Problems\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.pdb
 C:\Users\olani\Documents\TECHCareers\C# Practice Problems\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.genruntimeconfig.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\BirthYear\bin\Debug\netcoreapp3.1\BirthYear.exe
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\BirthYear\bin\Debug\netcoreapp3.1\BirthYear.deps.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\BirthYear\bin\Debug\netcoreapp3.1\BirthYear.runtimeconfig.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\BirthYear\bin\Debug\netcoreapp3.1\BirthYear.runtimeconfig.dev.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\BirthYear\bin\Debug\netcoreapp3.1\BirthYear.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\BirthYear\bin\Debug\netcoreapp3.1\BirthYear.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.csprojAssemblyReference.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.AssemblyInfoInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.AssemblyInfo.cs
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.csproj.CoreCompileInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\BirthYear\obj\Debug\netcoreapp3.1\BirthYear.genruntimeconfig.cache

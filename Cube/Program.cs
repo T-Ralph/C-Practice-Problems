@@ -8,7 +8,7 @@ namespace Cube
         {
             //Declare the DataTypes
             int number;
-            int result;
+            int cube;
 
             //Ask the user for the number
             Console.WriteLine("Enter a number and the program will calculate the cube of the number:");
@@ -17,10 +17,10 @@ namespace Cube
             number = Convert.ToInt32(Console.ReadLine());
 
             //Calculate the cube using the Math library
-            result = Convert.ToInt32(Math.Pow(number, 3));
+            cube = Convert.ToInt32(Math.Pow(number, 3));
 
             //Display the result in a concatenated sentence
-            Console.WriteLine("The cube of " + number.ToString() + " is " + result.ToString());
+            Console.WriteLine("The cube of " + number.ToString() + " is " + cube.ToString());
 
             //Let the user know how to exit the program
             Console.WriteLine("Press the enter key to close the program...");

@@ -11,3 +11,16 @@ C:\Users\olani\Documents\TECHCareers\C# Practice Problems\Diner\bin\Debug\netcor
 C:\Users\olani\Documents\TECHCareers\C# Practice Problems\Diner\obj\Debug\netcoreapp3.1\Diner.dll
 C:\Users\olani\Documents\TECHCareers\C# Practice Problems\Diner\obj\Debug\netcoreapp3.1\Diner.pdb
 C:\Users\olani\Documents\TECHCareers\C# Practice Problems\Diner\obj\Debug\netcoreapp3.1\Diner.genruntimeconfig.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\Diner\obj\Debug\netcoreapp3.1\Diner.csprojAssemblyReference.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\Diner\obj\Debug\netcoreapp3.1\Diner.AssemblyInfoInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\Diner\obj\Debug\netcoreapp3.1\Diner.AssemblyInfo.cs
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\Diner\obj\Debug\netcoreapp3.1\Diner.csproj.CoreCompileInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\Diner\obj\Debug\netcoreapp3.1\Diner.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\Diner\obj\Debug\netcoreapp3.1\Diner.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\Diner\bin\Debug\netcoreapp3.1\Diner.exe
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\Diner\bin\Debug\netcoreapp3.1\Diner.deps.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\Diner\bin\Debug\netcoreapp3.1\Diner.runtimeconfig.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\Diner\bin\Debug\netcoreapp3.1\Diner.runtimeconfig.dev.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\Diner\bin\Debug\netcoreapp3.1\Diner.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\Diner\bin\Debug\netcoreapp3.1\Diner.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\Diner\obj\Debug\netcoreapp3.1\Diner.genruntimeconfig.cache

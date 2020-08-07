@@ -11,3 +11,16 @@ C:\Users\olani\Documents\TECHCareers\C# Practice Problems\SumInt\bin\Debug\netco
 C:\Users\olani\Documents\TECHCareers\C# Practice Problems\SumInt\obj\Debug\netcoreapp3.1\SumInt.dll
 C:\Users\olani\Documents\TECHCareers\C# Practice Problems\SumInt\obj\Debug\netcoreapp3.1\SumInt.pdb
 C:\Users\olani\Documents\TECHCareers\C# Practice Problems\SumInt\obj\Debug\netcoreapp3.1\SumInt.genruntimeconfig.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\SumInt\bin\Debug\netcoreapp3.1\SumInt.exe
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\SumInt\bin\Debug\netcoreapp3.1\SumInt.deps.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\SumInt\bin\Debug\netcoreapp3.1\SumInt.runtimeconfig.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\SumInt\bin\Debug\netcoreapp3.1\SumInt.runtimeconfig.dev.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\SumInt\bin\Debug\netcoreapp3.1\SumInt.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\SumInt\bin\Debug\netcoreapp3.1\SumInt.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\SumInt\obj\Debug\netcoreapp3.1\SumInt.csprojAssemblyReference.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\SumInt\obj\Debug\netcoreapp3.1\SumInt.AssemblyInfoInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\SumInt\obj\Debug\netcoreapp3.1\SumInt.AssemblyInfo.cs
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\SumInt\obj\Debug\netcoreapp3.1\SumInt.csproj.CoreCompileInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\SumInt\obj\Debug\netcoreapp3.1\SumInt.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\SumInt\obj\Debug\netcoreapp3.1\SumInt.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\SumInt\obj\Debug\netcoreapp3.1\SumInt.genruntimeconfig.cache
