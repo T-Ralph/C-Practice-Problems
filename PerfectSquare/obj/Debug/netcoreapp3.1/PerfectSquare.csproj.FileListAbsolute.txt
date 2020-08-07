@@ -1,0 +1,13 @@
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.csprojAssemblyReference.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.AssemblyInfoInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.AssemblyInfo.cs
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.csproj.CoreCompileInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\PerfectSquare\bin\Debug\netcoreapp3.1\PerfectSquare.exe
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\PerfectSquare\bin\Debug\netcoreapp3.1\PerfectSquare.deps.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\PerfectSquare\bin\Debug\netcoreapp3.1\PerfectSquare.runtimeconfig.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\PerfectSquare\bin\Debug\netcoreapp3.1\PerfectSquare.runtimeconfig.dev.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\PerfectSquare\bin\Debug\netcoreapp3.1\PerfectSquare.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\PerfectSquare\bin\Debug\netcoreapp3.1\PerfectSquare.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\PerfectSquare\obj\Debug\netcoreapp3.1\PerfectSquare.genruntimeconfig.cache

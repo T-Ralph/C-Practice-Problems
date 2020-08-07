@@ -1,0 +1,13 @@
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.csprojAssemblyReference.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.AssemblyInfoInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.AssemblyInfo.cs
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\GuessRandomNumber\bin\Debug\netcoreapp3.1\GuessRandomNumber.exe
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\GuessRandomNumber\bin\Debug\netcoreapp3.1\GuessRandomNumber.deps.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\GuessRandomNumber\bin\Debug\netcoreapp3.1\GuessRandomNumber.runtimeconfig.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\GuessRandomNumber\bin\Debug\netcoreapp3.1\GuessRandomNumber.runtimeconfig.dev.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\GuessRandomNumber\bin\Debug\netcoreapp3.1\GuessRandomNumber.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\GuessRandomNumber\bin\Debug\netcoreapp3.1\GuessRandomNumber.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\GuessRandomNumber\obj\Debug\netcoreapp3.1\GuessRandomNumber.genruntimeconfig.cache
