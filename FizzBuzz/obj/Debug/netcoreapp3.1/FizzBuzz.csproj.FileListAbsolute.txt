@@ -1,0 +1,13 @@
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.exe
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.deps.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.runtimeconfig.dev.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\FizzBuzz\bin\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.AssemblyInfo.cs
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\FizzBuzz\obj\Debug\netcoreapp3.1\FizzBuzz.genruntimeconfig.cache
