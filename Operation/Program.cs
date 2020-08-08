@@ -39,6 +39,19 @@ namespace Operation
                     result = Convert.ToDecimal(number1 - number2);
                     break;
                 case "/":
+                    //Add exception handling to check if number2 divisor is 0
+                    try {
+                        if (number2 == 0) {
+                            throw new Exception();
+                        }
+                    }
+                    catch {
+                        Console.WriteLine("Not divisible by 0.");
+                        //Ask the user for the second number
+                        Console.WriteLine("Enter the second number:");
+                        //Assign the user input to a double variable
+                        number2 = Convert.ToDouble(Console.ReadLine());
+                    }
                     result = Convert.ToDecimal(number1 / number2);
                     break;
                 case "*":
