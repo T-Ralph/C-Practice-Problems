@@ -1,0 +1,13 @@
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.csprojAssemblyReference.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.AssemblyInfoInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.AssemblyInfo.cs
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.csproj.CoreCompileInputs.cache
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\ArrayWords\bin\Debug\netcoreapp3.1\ArrayWords.exe
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\ArrayWords\bin\Debug\netcoreapp3.1\ArrayWords.deps.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\ArrayWords\bin\Debug\netcoreapp3.1\ArrayWords.runtimeconfig.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\ArrayWords\bin\Debug\netcoreapp3.1\ArrayWords.runtimeconfig.dev.json
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\ArrayWords\bin\Debug\netcoreapp3.1\ArrayWords.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\ArrayWords\bin\Debug\netcoreapp3.1\ArrayWords.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.dll
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.pdb
+C:\Users\olani\Documents\TECHCareers\C-Practice-Problems\ArrayWords\obj\Debug\netcoreapp3.1\ArrayWords.genruntimeconfig.cache
